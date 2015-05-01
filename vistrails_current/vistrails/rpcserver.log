@@ -1,0 +1,2 @@
+VistrailsRPC[8080] - 2015-02-16 13:48:44,256 ERROR    Following required parameters where missing from /media/cmusv/vistrails_current/vistrails/server.cfg config file: host, read_user, write_user, media_dir, script_file, permission_addresses 
+VistrailsRPC[8080] - 2015-02-16 13:48:44,257 ERROR    Config file /media/cmusv/vistrails_current/vistrails/server.cfg doesn't exist. Creating new file at /media/cmusv/vistrails_current/vistrails/server.cfg. Please populated it with the correct values and use it
