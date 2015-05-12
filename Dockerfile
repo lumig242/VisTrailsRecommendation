@@ -35,3 +35,4 @@ ADD ./setup.sh /home/developer/
 #CMD python /home/developer/vistrails_current/vistrails/run.py
 CMD /bin/bash
 #docker run -ti --rm -e DISPLAY=unix$DISPLAY -v /tmp/.X11-unix:/tmp/.X11-unix vt
+sdfsdf
