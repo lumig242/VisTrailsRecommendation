@@ -135,7 +135,7 @@ class ComponentSearchForm():
 	    ##  Change the API names here by shenggu 
 	    ##  According to github.com/cmusv-sc/RecommendationAPIs
 	    ##
-        userBtn.clicked.connect(lambda: self.getRecommendations(RECO_API_SERVER_ADDR + "/getTopKContentBasedCFRecommendedDatasetByUsername",
+        userBtn.clicked.connect(lambda: self.getRecommendations(RECO_API_SERVER_ADDR + "/getTopKUserBasedCFRecommendedDatasetByUsername",
             self.recListFeature))
         userBtn.clicked.connect(lambda: self.getRecommendations(RECO_API_SERVER_ADDR + "/getTopKItemBasedCFRecommendedDatasetByUsername",
             self.recListItem))
