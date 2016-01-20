@@ -18,8 +18,6 @@ Operating System: Ubuntu 12.04 LTS
 
 I. Machine Environmental Setup (in a terminal): 
 
-==========================================================
-
 - Set up proper privilege to be able to run the demo:
 
 > chmod +x ./vt_install_prereqs.sh
@@ -31,8 +29,6 @@ I. Machine Environmental Setup (in a terminal):
 
 II. Start VisTrails: 
 
-==========================================================
-
 - Change directory to "WorkflowRecommendation­master/vistrails" and start VisTrails:
 
 > cd ./WorkflowRecommendation­master/vistrails
@@ -42,16 +38,12 @@ II. Start VisTrails:
 
 III. Enable Plugin: 
 
-==========================================================
-
 - In VisTrails, go to "Edit ­> Preferences ­> Module Packages" and enable the following plugin:
 
  ­> componentGraph, components, and componentSearch packages
 
 
 IV. Run our software: 
-
-==========================================================
 
 - In VisTrails, go to "Packages ­> Recommendation Engine".
 
