@@ -16,7 +16,9 @@ running environment including upgrading your python environment.
 
 Operating System: Ubuntu 12.04 LTS
 
-I. Machine Environmental Setup (in a terminal): ==========================================================
+I. Machine Environmental Setup (in a terminal): 
+
+==========================================================
 
 - Set up proper privilege to be able to run the demo:
 
@@ -27,7 +29,9 @@ I. Machine Environmental Setup (in a terminal): ================================
 > sudo ./vt_install_prereqs.sh
 
 
-II. Start VisTrails: ========================================
+II. Start VisTrails: 
+
+==========================================================
 
 - Change directory to "WorkflowRecommendation­master/vistrails" and start VisTrails:
 
@@ -36,14 +40,18 @@ II. Start VisTrails: ========================================
 > python vistrails.py
 
 
-III. Enable Plugin: =======================================
+III. Enable Plugin: 
+
+==========================================================
 
 - In VisTrails, go to "Edit ­> Preferences ­> Module Packages" and enable the following plugin:
 
  ­> componentGraph, components, and componentSearch packages
 
 
-IV. Run our software: =========================================
+IV. Run our software: 
+
+==========================================================
 
 - In VisTrails, go to "Packages ­> Recommendation Engine".
 
